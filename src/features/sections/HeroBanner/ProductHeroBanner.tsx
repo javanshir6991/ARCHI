@@ -20,7 +20,7 @@ export default function HeroBanner() {
                                 Coat <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-900 to-emerald-600">Black</span>
                             </h2>
 
-                            <button className="inline-block bg-blend-saturation mt-6 hover:bg-emerald-700 text-black font-semibold px-27 py-5 rounded-full border-2 border-gray-900 hover:border-emerald-700 transition-all duration-300 text-3xl shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
+                            <button className="inline-block bg-blend-saturation mt-6 hover:bg-emerald-700 text-black hover:text-white font-semibold px-27 py-5 rounded-full border-2 border-gray-900 hover:border-emerald-700 transition-all duration-300 text-3xl shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
                                 Shop Now
                             </button>
                         </div>

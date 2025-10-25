@@ -1,11 +1,15 @@
-import ProductHeroBanner from "../../sections/ProductHeroBanner"
-import ProductsSection from "../../sections/ProductsSection"
+import CollectionCards from "../../sections/Collection/CollectionCards"
+import ProductHeroBanner from "../../sections/HeroBanner/ProductHeroBanner"
+import ProductsSection from "../../sections/Products/ProductsSection"
+import ReviewsSection from "../../sections/Reviews/ReviewsSection"
 
 const Home = () => {
     return (
         <>
             <ProductHeroBanner />
             <ProductsSection />
+            <CollectionCards />
+            <ReviewsSection />
         </>
     )
 }
